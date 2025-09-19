@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Olá%2C+meu+nome+é+Julia!+;Seja+bem-vindo(a)%20ao%20meu%20perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Olá%2C+eu+sou+a+Julia!+;Seja+bem-vindo(a)%20ao%20meu%20perfil!" alt="Typing SVG" />
 </p>
 
 <br><br>
