@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Olá, eu sou a Júlia Miranda! 👩‍💻</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dsNzh2ZzZkdWJicDBqbnZldnN2bWp2ZTI4N2RybjBzNXJpZzZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bu3XilJ5BOiSGic/giphy.gif" width="200"/>
-</p>
+
+<h1 align="center">Olá, eu sou a Júlia Miranda! </h1>
 
 ---
 
