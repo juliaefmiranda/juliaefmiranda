@@ -1,24 +1,24 @@
-<br><br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Olá%2C+eu+sou+a+Julia!+;Seja+bem-vindo(a)%20ao%20meu%20perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<br><br>
+<h1 align="center">Olá, eu sou a Júlia Miranda! 👩‍💻</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dsNzh2ZzZkdWJicDBqbnZldnN2bWp2ZTI4N2RybjBzNXJpZzZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bu3XilJ5BOiSGic/giphy.gif" width="200"/>
+</p>
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+- 💡 Apaixonada por tecnologia e desenvolvimento web
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🚀 Sempre em busca de novos desafios e aprendizados
 
 
 ---
 
-## 🚀 O que tem aqui?
-
-- Código de exemplos para APIs
-- Testes com rotas
-- Um pouco de HTML, CSS e JavaScript para dar aquele up no front-end
-- Testes com o Postman para deixar tudo funcionando corretamente
-
----
-
-## 🛠 Tecnologias utilizadas:
+## 💻 Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -28,12 +28,31 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
 </p>
 
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliaefmiranda&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaefmiranda&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaefmiranda&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔮 Status do perfil
+## 📫 Como me encontrar
 
-Está sempre em movimento — vou adicionando coisas novas toda vez que aprendo algo legal!  
-Fica à vontade para olhar, comentar ou até sugerir algo! 😉
+<p align="left">
+  <a href="mailto:juliaefmiranda@gmail.com"><img src="https://img.shields.io/badge/E--mail-D565F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juliaefmiranda/"><img src="https://img.shields.io/badge/LinkedIn-D565F2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
+
+---
+
+## ✨ Status do Perfil
+
+Estou sempre aprendendo e adicionando coisas novas.  
+Fique à vontade para olhar, comentar ou sugerir algo! 😉
 
 ---
