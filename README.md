@@ -3,13 +3,13 @@
 </p>
 
 
-<h1 align="center">Olá, eu sou a Júlia Miranda! </h1>
+<h1 align="center">Olá, eu sou a Julia Miranda! </h1>
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-- 💡 Apaixonada por tecnologia e desenvolvimento web
+- 💡 Apaixonada por desenvolvimento web
 - 🎓 Estudante de Desenvolvimento de Sistemas
 - 🚀 Sempre em busca de novos desafios e aprendizados
 
