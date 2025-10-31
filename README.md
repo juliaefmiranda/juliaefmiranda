@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaefmiranda&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 ---
 
 ## 📫 Como me encontrar
