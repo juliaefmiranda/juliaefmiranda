@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 💡 Apaixonada por desenvolvimento web
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 🚀 Sempre em busca de novos desafios e aprendizados
+- 💡 **Desenvolvedora Web em formação:** Apaixonada por criar soluções digitais.
+- 🎓 **Estudante na Área de TI:** Construindo uma base sólida em programação, lógica e melhores práticas de desenvolvimento.
+- 🚀 **Sempre em Movimento:** Buscando constantemente novos desafios e oportunidades de aprendizado para evoluir.
 
 
 ---
