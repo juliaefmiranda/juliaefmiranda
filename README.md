@@ -42,9 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaefmiranda&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/juliaefmiranda?color=purple&style=for-the-badge" alt="Contributors" />
-</p>
 
 Estou sempre aprendendo e adicionando coisas novas.  
 Fique à vontade para olhar, comentar ou sugerir algo! 😉
