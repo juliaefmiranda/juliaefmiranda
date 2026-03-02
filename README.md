@@ -39,14 +39,6 @@
 ## ✨ Status do Perfil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaefmiranda&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaefmiranda&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaefmiranda&theme=radical" alt="GitHub Streak" />
 </p>
 
