@@ -42,6 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaefmiranda&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
 
 Estou sempre aprendendo e adicionando coisas novas.  
 Fique à vontade para olhar, comentar ou sugerir algo! 😉
