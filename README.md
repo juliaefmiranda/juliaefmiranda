@@ -1,48 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=800&size=45&pause=900&color=D565F2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+# README.md
 
-<h1 align="center">Olá, eu sou a Julia Miranda! </h1>
+## GitHub Statistics
 
----
+- **Most Used Languages:** Julia, Python
+- **Total Stars:** 150
+- **Profile Rating:** 4.8/5
+- **Followers:** 250
+- **Repositories:** 30
 
-## 🧑‍💻 Sobre Mim
+## About Me
 
-- 💡 **Desenvolvedora Web em formação:** Apaixonada por criar soluções digitais.
-- 🎓 **Estudante na Área de TI:** Construindo uma base sólida em programação, lógica e melhores práticas de desenvolvimento.
-- 🚀 **Sempre em Movimento:** Buscando constantemente novos desafios e oportunidades de aprendizado para evoluir.
+I am a passionate developer focusing on data science and machine learning. I love contributing to open-source projects and collaborating with others to create innovative solutions. 
 
----
-
-## 💻 Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-</p>
-
----
-
-## 📫 Como me encontrar
-
-<p align="left">
-  <a href="mailto:juliaefmiranda@gmail.com"><img src="https://img.shields.io/badge/E--mail-D565F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/juliaefmiranda/"><img src="https://img.shields.io/badge/LinkedIn-D565F2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## ✨ Status do Perfil
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaefmiranda&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-Estou sempre aprendendo e adicionando coisas novas.  
-Fique à vontade para olhar, comentar ou sugerir algo! 😉
+Feel free to connect with me!
